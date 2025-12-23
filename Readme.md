@@ -75,14 +75,6 @@ The ERD includes the following relationships:
 
 ---
 
-## 🧪 SQL Queries (`queries.sql`)
-
-The `queries.sql` file contains all required SQL queries with solutions based on the designed schema.
-
-Sample input/output is available in **QUERY.md**.
-
----
-
 ### 🔹 Query 1: Booking Details Using JOIN
 
 **Requirement:**
@@ -176,6 +168,8 @@ The query groups bookings by vehicle and filters results using HAVING.
 ## 👨‍💻 Author
 
 **Abdul Mazid Akash**
+
 Database & Backend Learner
+
 SQL | ERD | Relational Databases
 
